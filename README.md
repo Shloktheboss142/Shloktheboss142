@@ -1,5 +1,5 @@
 # 💫 About Me:
-I code
+🔭 I’m currently working on getting though my degree without changing majors<br>👯 I’m looking to collaborate on any hackathon/competition, especially if training a model is involved<br>🌱 I’m currently learning parallel computing, deep learning, and some new database technologies<br>💬 Chat with me about anything tech<br>⚡ Fun fact, I made the mistake of thinking that I could get through a semester with a good sleep schedule and no coffee
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@ I code
 ![](https://github-readme-stats.vercel.app/api?username=shloktheboss142&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shloktheboss142&theme=chartreuse-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shloktheboss142&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shloktheboss142&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
