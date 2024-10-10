@@ -16,6 +16,4 @@ I code
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Shloktheboss142&label=Profile%20Views&color=6&icon=2&pretty=true" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=shloktheboss142&icon=0&color=12)](https://visitcount.itsvg.in)
